@@ -18,7 +18,7 @@
 ║ ║
 ╚═════════════════════════════════════════════════════════════╝
 
-```
+
 
 ---
 
@@ -46,5 +46,20 @@ AI Engineering student building intelligent systems, scalable architectures, and
 ---
 
 ## ACTIVE MOVES
-```
+┌─────────────────────┬─────────────────────┬─────────────────────┐
+│ AI & Automation │ Web Development │ Smart Systems │
+├─────────────────────┼─────────────────────┼─────────────────────┤
+│ Building agents that│ Modern full-stack │ Designing systems │
+│ think and execute │ solutions for real │ that scale and │
+│ autonomously. │ products. │ adapt intelligently.│
+│ │ │ │
+│ Ai Research │ Focus: Vue, │ Focus: Architecture,│
+│ Focus: LLMs, RAG, │ Django, FastAPI, │ automation, DevOps │
+│ automation, prompt │ PostgreSQL │ │
+│ engineering │ │ │
+└─────────────────────┴─────────────────────┴─────────────────────┘
+
+---
+
+## EXPERIENCE GRID
 
