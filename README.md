@@ -8,3 +8,43 @@
 | 3 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) |
 | 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) |
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) |
+
+
+╔═════════════════════════════════════════════════════════════╗
+║ ║
+║ MAHI'S DEVELOPMENT BOARD ║
+║ ║
+║ AI ENGINEERING • FULL STACK • SYSTEMS DESIGN ║
+║ ║
+╚═════════════════════════════════════════════════════════════╝
+
+```
+
+---
+
+## ABOUT ME
+
+AI Engineer specializing in deep learning, GPU optimization, LLMs, and fine-tuning. Passionate about building intelligent systems that solve complex problems and push the boundaries of what's possible with artificial intelligence.
+
+---
+
+## THE POSITION
+
+AI Engineering student building intelligent systems, scalable architectures, and products that ship. I work across the full stack—from AI agents and backend infrastructure to modern frontends and DevOps. Strategy first, execution second.
+
+---
+
+## SKILL SET
+
+| Backend & AI | Frontend | Infrastructure | AI Engineering | Leadership |
+|---|---|---|---|---|
+| RAG Systems | Vue.js | Docker/Kubernetes | Deep Learning | Project Direction |
+| LLM Architectures | Responsive Design | Server Management | GPU Optimization | Team Coordination |
+| Django/FastAPI | UI/UX Implementation | CI/CD Pipelines | LLM Fine-tuning | Strategic Planning |
+| PostgreSQL | Performance Tuning | Database Design | Model Deployment | Communication |
+
+---
+
+## ACTIVE MOVES
+```
+
