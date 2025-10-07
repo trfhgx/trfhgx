@@ -10,13 +10,15 @@
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) |
 
 
-╔═════════════════════════════════════════════════════════════╗
-║ ║
-║ MAHI'S DEVELOPMENT BOARD ║
-║ ║
-║ AI ENGINEERING • FULL STACK • SYSTEMS DESIGN ║
-║ ║
-╚═════════════════════════════════════════════════════════════╝
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              MAHI'S DEVELOPMENT BOARD                        ║
+║                                                              ║
+║        AI ENGINEERING • FULL STACK • SYSTEMS DESIGN          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 
 
@@ -46,29 +48,34 @@ AI Engineering student building intelligent systems, scalable architectures, and
 ---
 
 ## ACTIVE MOVES
-┌─────────────────────┬─────────────────────┬─────────────────────┐
-│ AI & Automation │ Web Development │ Smart Systems │
-├─────────────────────┼─────────────────────┼─────────────────────┤
-│ Building agents that│ Modern full-stack │ Designing systems │
-│ think and execute │ solutions for real │ that scale and │
-│ autonomously. │ products. │ adapt intelligently.│
-│ │ │ │
-│ Ai Research │ Focus: Vue, │ Focus: Architecture,│
-│ Focus: LLMs, RAG, │ Django, FastAPI, │ automation, DevOps │
-│ automation, prompt │ PostgreSQL │ │
-│ engineering │ │ │
-└─────────────────────┴─────────────────────┴─────────────────────┘
+
+```
+┌──────────────────────┬──────────────────────┬──────────────────────┐
+│  AI & Automation     │  Web Development     │  Smart Systems       │
+├──────────────────────┼──────────────────────┼──────────────────────┤
+│ Building agents that │ Modern full-stack    │ Designing systems    │
+│ think and execute    │ solutions for real   │ that scale and       │
+│ autonomously.        │ products.            │ adapt intelligently. │
+│                      │                      │                      │
+│ Focus:               │ Focus:               │ Focus:               │
+│ • LLMs, RAG          │ • Vue, Django        │ • Architecture       │
+│ • Automation         │ • FastAPI            │ • Automation         │
+│ • Prompt Engineering │ • PostgreSQL         │ • DevOps             │
+└──────────────────────┴──────────────────────┴──────────────────────┘
+```
 
 ---
 
 ## EXPERIENCE GRID
-Game Development          ████████░░ Advanced
-Full Stack Dev            ██████████ Expert
-AI & ML Systems          ██████████ Expert
-DevOps & Infrastructure  █████████░ Advanced
-Project Leadership        █████████░ Advanced
-Entrepreneurship         ████████░░ Advanced
-Web3 & Blockchain        ██████░░░░ Intermediate
+
+```
+Game Development            ██████░░░░ Intermediate
+Full Stack Development      ██████████ Expert
+AI & ML Systems             ████████░░ Advanced+
+DevOps & Infrastructure     █████████░ Advanced
+Project Leadership          █████████░ Advanced
+Entrepreneurship            ██████░░░░ Intermediate
+```
 ---
 
 ## CONNECT
@@ -81,17 +88,25 @@ Email → mehdi@example.com
 ---
 
 ## PHILOSOPHY
-┌───────────────────────────────────────────────────────────┐
-│ │
-│ "Perfection is achieved, not when there is nothing more │
-│ to add, but when there is nothing left to take away." │
-│ — Antoine de Saint-Exupéry │
-│ │
-│ Build systems that matter. │
-│ Move with intention. │
-│ Ship with confidence. │
-│ │
-│ The best code is the code that solves real problems. │
-│ │
-└───────────────────────────────────────────────────────────┘
+
+<div align="center">
+
+```
+╭───────────────────────────────────────────────────────────────╮
+│                                                               │
+│  "Perfection is achieved, not when there is nothing more     │
+│   to add, but when there is nothing left to take away."      │
+│                                                               │
+│                    — Antoine de Saint-Exupéry                │
+│                                                               │
+╰───────────────────────────────────────────────────────────────╯
+```
+
+*Build systems that matter.*  
+*Move with intention.*  
+*Ship with confidence.*
+
+> The best code is the code that solves real problems.
+
+</div>
 
