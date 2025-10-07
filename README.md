@@ -62,4 +62,36 @@ AI Engineering student building intelligent systems, scalable architectures, and
 ---
 
 ## EXPERIENCE GRID
+Game Development          ████████░░ Advanced
+Full Stack Dev            ██████████ Expert
+AI & ML Systems          ██████████ Expert
+DevOps & Infrastructure  █████████░ Advanced
+Project Leadership        █████████░ Advanced
+Entrepreneurship         ████████░░ Advanced
+Web3 & Blockchain        ██████░░░░ Intermediate
+---
+
+## CONNECT
+
+LinkedIn → github.com/yourusername
+Twitter → @yourhandle
+Portfolio → yoursite.com
+Email → mehdi@example.com
+
+---
+
+## PHILOSOPHY
+┌───────────────────────────────────────────────────────────┐
+│ │
+│ "Perfection is achieved, not when there is nothing more │
+│ to add, but when there is nothing left to take away." │
+│ — Antoine de Saint-Exupéry │
+│ │
+│ Build systems that matter. │
+│ Move with intention. │
+│ Ship with confidence. │
+│ │
+│ The best code is the code that solves real problems. │
+│ │
+└───────────────────────────────────────────────────────────┘
 
