@@ -159,7 +159,7 @@ Full-stack AI systems from concept to deployment
 
 <br>
 
-> *The best code solves real problems. Everything else is noise.*
+> 
 
 ---
 
