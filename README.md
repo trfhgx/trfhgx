@@ -161,9 +161,7 @@ Full-stack AI systems from concept to deployment
 
 > 
 
----
 
-**♟️ Small moves change the game. Choose with care.**
 
 </div>
 
