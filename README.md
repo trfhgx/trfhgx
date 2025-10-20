@@ -41,17 +41,6 @@
 
 <div align="center">
 
-###  THE GAMBIT
-
-Full-stack AI systems from concept to deployment  
-**Strategy first. Execution next. Momentum forever.**
-
-</div>
-
----
-
-<div align="center">
-
 ### ♜ PIECES IN PLAY
 
 </div>
@@ -127,34 +116,21 @@ Full-stack AI systems from concept to deployment
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-belkaim-848209298/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mehdi_belkaim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)]()
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 </div>
 
 ---
 
+
 <div align="center">
 
-### ♔ ENDGAME PHILOSOPHY
-
-```
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│   "Perfection is achieved, not when there is nothing more  │
-│    to add, but when there is nothing left to take away."   │
-│                                                             │
-│                  — Antoine de Saint-Exupéry                │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
-```
+*"Perfection is achieved, not when there is nothing more to add,*  
+*but when there is nothing left to take away."*  
+— Antoine de Saint-Exupéry
 
 <br>
 
 ![image](images/p1.png)
-
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clementpoiret/clementpoiret/snake/github-snake-dark.svg" />
@@ -162,7 +138,8 @@ Full-stack AI systems from concept to deployment
   <img alt="github-snake" src="https://raw.githubusercontent.com/clementpoiret/clementpoiret/snake/github-snake-dark.svg" />
 </picture>
 
-
-
 </div>
+
+
+
 
