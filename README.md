@@ -151,11 +151,7 @@ Full-stack AI systems from concept to deployment
 
 <br>
 
-```
-        ♜ Root in what is real
-        ♞ Flow with what becomes
-        ♝ Rise beyond what fades
-```
+![image](images/p1.png)
 
 
 <br>
