@@ -1,4 +1,4 @@
-<div align="center" style="transform: scale(0.7);">
+<div align="center" style="transform: scale(0.5);">
 
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
