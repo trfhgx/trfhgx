@@ -18,7 +18,7 @@ hey, i'm mahi
 building stuff with AI and full stack tech. mostly working on agents , automating things and going deep about AI
 what i work with
 backend/automation stuff
-django, fastapi, postgresql/mysql/sqllite, llm architectures, intelligent systems
+django, fastapi, postgresql/mysql/sqllite/redis, llm architectures, web scraping and automations scripts ,intelligent systems
 frontend
 vue.js/nuxt,react/next , responsive design, making things look decent
 infrastructure
