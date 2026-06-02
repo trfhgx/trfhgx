@@ -5,7 +5,6 @@
 
 ### building AI systems, agents, and full-stack products
 
-<img src="YOUR_PFP_OR_BANNER_HERE" width="180" />
 
 </div>
 
