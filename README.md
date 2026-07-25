@@ -50,7 +50,6 @@ game dev · cybersecurity · compiler design · systems programming
 
 ### connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-belkaim-848209298/)
 [![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_mahybe)
 
 </div>
