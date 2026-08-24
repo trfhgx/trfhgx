@@ -1,68 +1,44 @@
+# Mehdi Belkaim
 
-<div align="center">
+I build AI systems, agent tooling, and developer infrastructure used by other engineers.
 
-# mahy
+Most of my work is around making agents more useful in real workflows. Giving them better ways to review work, find what was missed, reuse what they learn, follow a specific writing system, and work across large codebases without wasting context.
 
-### building AI systems, agents, and full-stack products
+## Selected work
+
+### [Byto](https://github.com/trfhgx/byto)
+
+Turns the usual Google Cloud + Vertex AI setup into one command.
+
+Byto configures what you need, exposes Gemini through an OpenAI-compatible API, and lets existing tools switch over without changing their integration.
+
+Built in Go with streaming, automatic model discovery, concurrency control, load testing, and Cloud Run deployment.
+
+### [Codex PR Debate Bot](https://github.com/trfhgx/codex-pr-debate-bot)
+
+Turns pull requests into a debate before the agent starts coding.
+
+Instead of letting an agent rush straight into implementation, it grills the plan first: challenges assumptions, exposes blind spots, forces unclear requirements into the open, and keeps the reasoning inside the PR.
+
+You get better decisions, fewer dumb mistakes, and a much better understanding of the code you're about to change.
+
+### [nginxconf-wizard](https://github.com/trfhgx/nginxconf-wizard)
+
+Tooling for generating, validating, and hardening Nginx configurations for VPS and bare-metal deployments.
+
+## Building now
+
+I'm mostly interested in agents that get more useful the longer you run them.
+
+That currently means systems that review ongoing engineering and product work, catch gaps, research better approaches, and surface useful next moves.
+
+I'm also working on agents that build and revise their own reusable skills during normal use, and on better ways to make models reliably follow a writing system instead of drifting back toward generic AI output.
+
+**RepoTracer** is a repository-exploration mcp for coding agents
+
+A stronger coding model delegates repository search to smaller models, which explore the codebase and return only the relevant files, line ranges, and findings. This keeps broad search out of the primary model's context and lets it spend more of its budget on reasoning and implementation. (up to -60% cost reduction with no quality loss)
 
 
-</div>
+Most of my systems work is in Go, Rust, Python, TypeScript, and Swift.
 
----
-
-i build things with **AI, backend systems, automation, and full-stack tech**.
-
-currently going deep into:
-- autonomous agents that actually work
-- low-level AI systems and LLM architectures
-- full-stack products from idea to deployment
-- scalable systems that do not need constant babysitting
-
----
-
-### work with
-
-**backend & automation**  
-Django · FastAPI · PostgreSQL · MySQL · SQLite · Redis  
-web scraping · automation scripts · intelligent systems
-
-**frontend**  
-Vue / Nuxt · React / Next.js  
-responsive interfaces · clean product UI
-
-**infrastructure**  
-Docker · Kubernetes · CI/CD  
-database design · VPS / bare-metal server management
-
-**AI / ML**  
-deep learning · LLM fine-tuning · model deployment  
-GPU optimization · agentic systems
-
----
-
-### side quests
-
-game dev · cybersecurity · compiler design · systems programming
-
----
-
-<div align="center">
-
-### connect
-
-[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_mahybe)
-
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clementpoiret/clementpoiret/snake/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clementpoiret/clementpoiret/snake/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/clementpoiret/clementpoiret/snake/github-snake-dark.svg" />
-</picture>
-
-</div>
-
+[X](https://x.com/_mahybe)
