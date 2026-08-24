@@ -1,4 +1,4 @@
-# Mehdi Belkaim
+# Mahy B.
 
 I build AI systems, agent tooling, and developer infrastructure used by other engineers.
 
