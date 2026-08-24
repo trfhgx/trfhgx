@@ -1,44 +1,55 @@
 # Mahy B.
 
-I build AI systems, agent tooling, and developer infrastructure used by other engineers.
+`I build tools and systems around AI, mostly where the models are already good enough but the software around them isn't.`
 
-Most of my work is around making agents more useful in real workflows. Giving them better ways to review work, find what was missed, reuse what they learn, follow a specific writing system, and work across large codebases without wasting context.
+`That usually means agents, automation, infrastructure, developer tools, and products that remove setup, wasted model work, or repetitive human work.`
 
 ## Selected work
 
 ### [Byto](https://github.com/trfhgx/byto)
 
-Turns the usual Google Cloud + Vertex AI setup into one command.
+`Turns the usual Google Cloud + Vertex AI setup into one command.`
 
-Byto configures what you need, exposes Gemini through an OpenAI-compatible API, and lets existing tools switch over without changing their integration.
+`Byto handles the setup, exposes Gemini through an OpenAI-compatible API, and lets existing tools switch over without rebuilding their integration.`
 
-Built in Go with streaming, automatic model discovery, concurrency control, load testing, and Cloud Run deployment.
+`Built in Go with streaming, automatic model discovery, concurrency control, load testing, and Cloud Run deployment.`
 
 ### [Codex PR Debate Bot](https://github.com/trfhgx/codex-pr-debate-bot)
 
-Turns pull requests into a debate before the agent starts coding.
+`Makes coding agents defend their approach before touching the code.`
 
-Instead of letting an agent rush straight into implementation, it grills the plan first: challenges assumptions, exposes blind spots, forces unclear requirements into the open, and keeps the reasoning inside the PR.
+`It grills the plan first: challenges assumptions, catches blind spots, and forces vague requirements into the open inside the pull request.`
 
-You get better decisions, fewer dumb mistakes, and a much better understanding of the code you're about to change.
+`Instead of letting an agent run blindly, you get to challenge its reasoning before implementation and learn from the decisions it makes.`
 
 ### [nginxconf-wizard](https://github.com/trfhgx/nginxconf-wizard)
 
-Tooling for generating, validating, and hardening Nginx configurations for VPS and bare-metal deployments.
+`Generate and harden Nginx configurations without rebuilding the same deployment setup by hand.`
+
+`Handles common presets, TLS, reverse proxies, security headers, rate limiting, compression, and configuration checks.`
 
 ## Building now
 
-I'm mostly interested in agents that get more useful the longer you run them.
+`I'm especially interested in agents that become more useful the longer you run them.`
 
-That currently means systems that review ongoing engineering and product work, catch gaps, research better approaches, and surface useful next moves.
+`I'm building systems that review ongoing engineering and product work, catch gaps, research better approaches, and surface useful next moves without needing every step prompted manually.`
 
-I'm also working on agents that build and revise their own reusable skills during normal use, and on better ways to make models reliably follow a writing system instead of drifting back toward generic AI output.
+`I'm also experimenting with agents that build and revise reusable skills as they work, so useful behavior can accumulate during normal use rather than requiring another training run.`
 
-**RepoTracer** is a repository-exploration mcp for coding agents
+`Another direction is writing. Models can imitate a style, but they tend to drift back toward the same generic voice. I'm working on ways to make writing systems explicit, reusable, and persistent enough for agents to actually stick to them.`
 
-A stronger coding model delegates repository search to smaller models, which explore the codebase and return only the relevant files, line ranges, and findings. This keeps broad search out of the primary model's context and lets it spend more of its budget on reasoning and implementation. (up to -60% cost reduction with no quality loss)
+### RepoTracer
 
+`RepoTracer is an MCP repository explorer for coding agents based on the FastContext approach.`
 
-Most of my systems work is in Go, Rust, Python, TypeScript, and Swift.
+`The primary model delegates repository search to cheaper models, which explore the codebase and return the relevant files, line ranges, and findings. This keeps more of the expensive model's context and inference budget focused on reasoning and implementation.`
+
+`Early benchmarks show up to 60% lower model cost with no measurable quality loss.`
+
+**Public soon.**
+
+---
+
+`Most of my systems work is in Go, Rust, Python, TypeScript, and Swift.`
 
 [X](https://x.com/_mahybe)
